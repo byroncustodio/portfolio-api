@@ -31,8 +31,15 @@ namespace Portfolio.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var builder = new PostgresqlConnectionStringBuilder(Configuration["DATABASE_URL"])
+            {
+                Pooling = true,
+                TrustServerCertificate = true,
+                SslMode = SslMode.Require
+            };
+
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"), x => x.MigrationsAssembly("Portfolio.Infrastructure")));
+                options.UseNpgsql(builder.ConnectionString, x => x.MigrationsAssembly("Portfolio.Infrastructure")));
 
             services.AddCors();
 
