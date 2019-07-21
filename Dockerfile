@@ -10,6 +10,7 @@ FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS build
 WORKDIR /src
 COPY ["Portfolio.API/Portfolio.API.csproj", "Portfolio.API/"]
 RUN dotnet restore "Portfolio.API/Portfolio.API.csproj"
+
 COPY . .
 WORKDIR /src/Portfolio.API
 RUN dotnet build "Portfolio.API.csproj" -c Release -o /app
