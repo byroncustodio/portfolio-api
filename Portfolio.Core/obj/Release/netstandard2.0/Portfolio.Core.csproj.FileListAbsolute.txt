@@ -1,0 +1,9 @@
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/tst/Portfolio.Core.deps.json
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/tst/Portfolio.Core.dll
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/tst/Portfolio.Core.pdb
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.csprojAssemblyReference.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.csproj.CoreCompileInputs.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.AssemblyInfoInputs.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.AssemblyInfo.cs
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.dll
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/Release/netstandard2.0/Portfolio.Core.pdb

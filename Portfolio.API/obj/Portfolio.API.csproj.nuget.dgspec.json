@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.API/Portfolio.API.csproj": {}
+  },
+  "projects": {
+    "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.API/Portfolio.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.API/Portfolio.API.csproj",
+        "projectName": "Portfolio.API",
+        "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.API/Portfolio.API.csproj",
+        "packagesPath": "/Users/bcustodio/.nuget/packages/",
+        "outputPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bcustodio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/Portfolio.Infrastructure.csproj": {
+                "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/Portfolio.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj",
+        "projectName": "Portfolio.Core",
+        "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj",
+        "packagesPath": "/Users/bcustodio/.nuget/packages/",
+        "outputPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bcustodio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/Portfolio.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/Portfolio.Infrastructure.csproj",
+        "projectName": "Portfolio.Infrastructure",
+        "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/Portfolio.Infrastructure.csproj",
+        "packagesPath": "/Users/bcustodio/.nuget/packages/",
+        "outputPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bcustodio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj": {
+                "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

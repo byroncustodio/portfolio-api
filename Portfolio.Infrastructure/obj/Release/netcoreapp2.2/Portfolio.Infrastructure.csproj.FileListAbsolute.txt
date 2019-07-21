@@ -1,0 +1,12 @@
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/tst/Portfolio.Infrastructure.deps.json
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/tst/Portfolio.Infrastructure.dll
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/tst/Portfolio.Infrastructure.pdb
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/tst/Portfolio.Core.dll
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/tst/Portfolio.Core.pdb
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.csprojAssemblyReference.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.AssemblyInfoInputs.cache
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.AssemblyInfo.cs
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.csproj.CopyComplete
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.dll
+/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Infrastructure/obj/Release/netcoreapp2.2/Portfolio.Infrastructure.pdb
