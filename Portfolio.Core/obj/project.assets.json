@@ -4122,11 +4122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj",
+      "projectUniqueName": "/Users/bcustodio/Git/repos/PortfolioAPI/Portfolio.Core/Portfolio.Core.csproj",
       "projectName": "Portfolio.Core",
-      "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/Portfolio.Core.csproj",
+      "projectPath": "/Users/bcustodio/Git/repos/PortfolioAPI/Portfolio.Core/Portfolio.Core.csproj",
       "packagesPath": "/Users/bcustodio/.nuget/packages/",
-      "outputPath": "/Users/bcustodio/Git/repos/PortfolioAPI/src/Portfolio.Core/obj/",
+      "outputPath": "/Users/bcustodio/Git/repos/PortfolioAPI/Portfolio.Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -18,7 +18,7 @@ public class PostgresqlConnectionStringBuilder : DbConnectionStringBuilder
     private bool _trustServerCertificate;
     private SslMode _sslMode;
 
-    public PostgreSqlConnectionStringBuilder(string uriString)
+    public PostgresqlConnectionStringBuilder(string uriString)
     {
         ParseUri(uriString);
     }
