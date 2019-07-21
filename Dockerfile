@@ -19,4 +19,4 @@ RUN dotnet publish "Portfolio.API.csproj" -c Release -o /app
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
-ENTRYPOINT ["dotnet", "Portfolio.API.dll"]
+CMD dotnet Portfolio.API.dll
